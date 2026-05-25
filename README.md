@@ -66,10 +66,8 @@ if __name__ == '__main__':
 ```
 
 ## Output
-```
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/88fe2e68-4ae4-4c01-8e11-2d0cbaab659a" />
 
-```
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
